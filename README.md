@@ -1,0 +1,1 @@
+# avangerdevTOKEN.sol
